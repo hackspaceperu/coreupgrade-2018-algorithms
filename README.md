@@ -32,8 +32,8 @@ En esta wiki encontrarás tutoriales y artículos que te ayudaran a completar lo
 
 ## Semana 2
 
-* [Clase 2 - Estructuras de Datos](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Semana-2.md)
-* [Reto 2](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Reto-2.md)
+* [Clase 2 - Estructuras de Datos](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Semana-2.md)
+* [Reto 2](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Reto-2.md)
 
 ## Semana 3
 

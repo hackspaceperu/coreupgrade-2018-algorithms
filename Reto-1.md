@@ -26,3 +26,12 @@ void example2(int n, int arr[])
 ## 3. ¿Cuál es la mejor complejidad de tiempo de bubbleSort?
 
 
+## Entrega tu reto
+
+Finalmente solo debes subir un documento con tu respuesta a [Google Drive](https://drive.google.com), [Dropbox](https://www.dropbox.com/) o hasta [Pastebin](https://pastebin.com/). Simplemente obtén el link de tu documento y ponlo en el formulario que está disponible cuando te logueas en el [CoreUpgrade](https://www.hackspace.la).
+
+* Paso 1: Haces clic en Algoritmos.
+![Clic en Algoritmos](send-a.png)
+
+* Paso 2: Seleccionas `Enviar Reto` y envias el URL.
+![Llena el campo con la URL de tu documento](send-b.png)

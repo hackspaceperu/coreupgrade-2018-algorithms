@@ -28,12 +28,16 @@ En esta wiki encontrarás tutoriales y artículos que te ayudaran a completar lo
 ## Semana 1
 
 * [Clase 1 - Introducción y Análisis de Algoritmos](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Semana-1.md)
+<<<<<<< HEAD
 * [Reto 1](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Reto-1.md)
+=======
+* [Reto 1](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Reto-1.md)
+>>>>>>> 4308ca4fc587a1c2a360b8f99aeb77a0ecb1d410
 
 ## Semana 2
 
-* [Clase 2 - Estructuras de Datos](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Semana-2.md)
-* [Reto 2](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Reto-2.md)
+* [Clase 2 - Estructuras de Datos](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Semana-2.md)
+* [Reto 2](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Reto-2.md)
 
 ## Semana 3
 

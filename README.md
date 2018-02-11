@@ -41,8 +41,8 @@ En esta wiki encontrarás tutoriales y artículos que te ayudaran a completar lo
 
 ## Semana 3
 
-* [Clase 3 - Algoritmos de Ordenamiento](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Semana-3.md)
-* [Reto 3](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Reto-3.md)
+* [Clase 3 - Algoritmos de Ordenamiento](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Semana-3.md)
+* [Reto 3](https://github.com/HackSpacePeru/coreupgrade-2018-algorithms/blob/master/Reto-3.md)
 
 ## Semana 4
 

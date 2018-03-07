@@ -46,8 +46,7 @@ En esta wiki encontrarás tutoriales y artículos que te ayudaran a completar lo
 
 ## Semana 4
 
-* [Clase 4 - Divide y Vencerás](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Semana-4.md)
-* [Reto Final](https://github.com/HackSpacePeru/coreup-algorithms/blob/master/Reto-Final.md)
+* Tienes una semana más para entregar los retos anteriores.
 
 ## Developed by
 
